@@ -1,0 +1,12 @@
+.banner-text{
+    top:15%;
+    left:40%;
+    position:absolute;
+    transform: transform;
+}
+.container-fluid{
+ background-color:#CBB279;
+ height:150px;
+    width :100%;
+    margin-bottom:10px;
+}
